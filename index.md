@@ -5,10 +5,10 @@
 ## Index  
 
 - [更新情報](https://nonnanorthmarine.github.io/homepage/#%E6%9B%B4%E6%96%B0%E6%83%85%E5%A0%B1)
-- [Kernel](./KernelIndex)  
-- [リポジトリ](https://github.com/NonnaNorthmarine?tab=repositories)  
 - [自己紹介](https://nonnanorthmarine.github.io/homepage/#%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B)  
 - [リンク](https://nonnanorthmarine.github.io/homepage/#%E3%83%AA%E3%83%B3%E3%82%AF)  
+- [Kernel](./KernelIndex)  
+- [リポジトリ](https://github.com/NonnaNorthmarine?tab=repositories)  
 
 ## 更新情報  
 
