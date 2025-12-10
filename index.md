@@ -22,11 +22,13 @@ VRChatやってます。
   
 - [Kernel](./KernelIndex)  
 - [GitHubリポジトリ](https://github.com/NonnaNorthmarine?tab=repositories)  
+  
 - [Instagram](https://www.instagram.com/nonnanorthmarine/)  
 - [Threads](https://www.threads.net/@nonnanorthmarine)  
 - [X（旧Twitter）](https://x.com/nonnanorthmarin)  
 - [VRChat](https://vrchat.com/home/user/usr_c65de0b0-7088-4185-80ac-3ca00c47a7e7)  
 - [YouTube](https://www.youtube.com/@nonnanorthmarine)  
+  
 - [Amazonほしいものリスト](https://www.amazon.jp/hz/wishlist/ls/2AJV2IINY5530?ref_=wl_share)  
 - [BOOTHほしいものリスト](https://booth.pm/wish_list_names/pZvTnPoV)  
 - [BOOTH購入済みリスト](https://booth.pm/wish_list_names/8yWTlzRX)  
