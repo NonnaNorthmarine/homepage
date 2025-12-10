@@ -21,7 +21,7 @@ VRChatやってます。
 ## リンク  
   
 - [Kernel](./KernelIndex)  
-- [リポジトリ](https://github.com/NonnaNorthmarine?tab=repositories)  
+- [GitHubリポジトリ](https://github.com/NonnaNorthmarine?tab=repositories)  
 - [Instagram](https://www.instagram.com/nonnanorthmarine/)  
 - [Threads](https://www.threads.net/@nonnanorthmarine)  
 - [X（旧Twitter）](https://x.com/nonnanorthmarin)  
