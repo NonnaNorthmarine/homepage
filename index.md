@@ -9,15 +9,10 @@
   
 ## 自己紹介  
   
-北海道に住むうさぎです。  
-うさぎが好きです。  
-OSSやLinuxが好きです。  
-万年筆やシーリングスタンプも好きです。  
-VRChatやってます。  
-  
-## 公式設定  
-フェアリーラビットガーデンのフェアリーラビット。  
-人間と仲良くなりたくて、フェアリーラビットマザーに人化の魔法をかけてもらって、人間界（北海道）にやってきた。  
+フェアリーラビットガーデンで生まれたムーンラビット。  
+フェアリーラビットマザーの魔法で人の姿になって、人間界（北海道）にやってきたよ。  
+OSSやLinux、万年筆やシーリングスタンプが好き。  
+アップルミントを育ててるよ。  
   
 ## リンク  
   
@@ -27,6 +22,7 @@ VRChatやってます。
 - [Threads](https://www.threads.net/@nonnanorthmarine)
 - [X（旧Twitter）](https://x.com/nonnanorthmarin)
 - [VRChat](https://vrchat.com/home/user/usr_c65de0b0-7088-4185-80ac-3ca00c47a7e7)
+- [Steam](https://steamcommunity.com/id/nonnanorthmarine/)
 - [YouTube](https://www.youtube.com/@nonnanorthmarine)
 - [Amazonほしいものリスト](https://www.amazon.jp/hz/wishlist/ls/2AJV2IINY5530?ref_=wl_share)
 - [BOOTHほしいものリスト](https://booth.pm/wish_list_names/pZvTnPoV)
