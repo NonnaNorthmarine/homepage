@@ -2,6 +2,7 @@
 
 ## 更新情報
 
+- 20260731: 公式設定を更新しました！
 - 20260501: [探偵昇格試験「消えた懐中時計の謎」](./探偵昇格試験「消えた懐中時計の謎」/question)を公開しました。
 - 20260426: [タロットカードバトル](./タロットカードバトル)を公開しました。
 - 20260424: Kernelに[019死後の楽しみ](./Kernel/019死後の楽しみ)、[020探偵の思考法](./Kernel/020探偵の思考法)、[021短く区切る](./Kernel/021短く区切る)を公開しました。
@@ -51,7 +52,6 @@
 - [たれ耳の子保全機構](https://vrc.group/LOPMM.4866)（VRChatグループ）
 - [VRC探偵事務所](https://vrc.group/4869.0956)（VRChatグループ）
 - [特務機関Lagomorpha](https://x.com/LagomorphaSA)（Xアカウント）
-- [Selenites Thiasos](https://sites.google.com/view/selenitesthiasos/index)（Discordサーバー）
 
 ### ほしいものリスト
 
