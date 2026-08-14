@@ -2,6 +2,7 @@
 
 ## 更新情報
 
+- 20260814: [EsperantoXKonvertilo](./EsperantoXKonvertilo/index.html)を公開しました。
 - 20260731: 公式設定を更新しました！
 - 20260501: [探偵昇格試験「消えた懐中時計の謎」](./探偵昇格試験「消えた懐中時計の謎」/question)を公開しました。
 - 20260426: [タロットカードバトル](./タロットカードバトル)を公開しました。
@@ -39,6 +40,7 @@
 - [Chrome拡張機能](./Chrome拡張機能.html)
 - [タロットカードバトル](./タロットカードバトル)
 - [探偵昇格試験「消えた懐中時計の謎」](./探偵昇格試験「消えた懐中時計の謎」/question)
+- [EsperantoXKonvertilo](./EsperantoXKonvertilo/index.html): X方式で入力したエスペラントを、特殊文字に出力するサービス
 
 ### SNS
 
